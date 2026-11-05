@@ -95,7 +95,7 @@ real-world security problems.
 
 - 🔎 Digital Forensics
 - 🌍 Web Security
-- 📡 Wi-Fi / Network Security
+- 📡 Wi-Fi / Networking
 - 🐧 Linux & Kali Linux
 
 </td>
