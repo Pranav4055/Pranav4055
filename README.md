@@ -32,6 +32,7 @@ Digital Forensics, Web Security, Wi-Fi Security, Bug Bounty and Linux/Kali Linux
 I am focused on continuously improving my technical skills and exploring
 how cybersecurity can be applied to identify, understand, and solve
 real-world security problems.
+trying to learn the bug bounty concepts.
 
 ---
 
@@ -86,6 +87,7 @@ real-world security problems.
 - 🌐 Network Security
 - 🔓 Ethical Hacking
 - 🏴 Capture The Flag (CTFs)
+-   hackathons
 
 </td>
 
